@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: var(--font-family);
+
+}
+:root{
+    --color-neutral-black:#263238;
+    --color-neutral-D_Grey:#4D4D4D;
+    --color-neutral-Grey:#717171;
+    --color-neutral-L_Grey:#89939E;
+    --color-neutral-Grey-blue:#ABBED1;
+    --color-neutral-Silver:#F5F7FA;
+    --color-neutral-White:#FFFFFF;
+
+
+    --color-primary-Primary:#4CAF4F;
+
+    --color-secondary-Secondary:#263238;
+
+    --color-info-info:#2194f3;
+
+    --color-color_shade-Shade_1:#43A046;
+    --color-color_shade-Shade_2:#388E3B;
+    --color-color_shade-Shade_3:#237D31;
+    --color-color_shadeShade_4:#1B5E1F;
+    --color-color_shade-Shade_5:#103E13;
+
+
+    --color-color_tint-Tint_1:#66BB69;
+    --color-color_tint-Tint_2:#81C784;
+    --color-color_tint-Tint_3:#A5D6A7;
+    --color-color_tint-Tint_4:#C8E6C9;
+    --color-color_tint-Tint_5:#E8F5E9;
+
+
+    --color-action-Warning:#FBC02D;
+    --color-action-Error:#E53835;
+    --color-action-Success:#2E7D31;
+
+
+
+    /* FONTES */
+
+    --font-family: "inter";
+    --font-headline-1-size: 64px;
+    --font-headline-2-size: 36px;
+    --font-headline-2-weight: 600;
+    --font-headline-4-size: 20px;
+    --font-body2-weight-regular: 400;
+    --font-body3-size: 14px;
+
+   
+}
+ a{
+    text-decoration: none;
+    }

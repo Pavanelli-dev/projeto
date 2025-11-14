@@ -206,3 +206,28 @@ main{
 
 
 /* Pellentesque  */
+
+
+
+/* ----------------------------------------------------------FOOTER----------------------------------------------------------------------- */
+
+
+footer{
+    display: flex;
+    background-color: var(--color-neutral-black);
+}
+
+.footer-social{
+    display: flex;
+    margin-top: 30px;
+}
+
+.footer-navegation{
+
+    color: var(--color-neutral-Silver);
+    display: flex;
+    align-self: center;
+    padding: 20px 0px;
+    margin-top: 30px;
+    gap: 40px;
+}
